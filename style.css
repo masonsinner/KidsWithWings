@@ -1,0 +1,121 @@
+.p1 {
+	color: Yellow;
+	border: solid orange;
+	text-self: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin-right: 50px;
+	margin-left: 50px;
+	line-height: 25px;
+}
+
+.body { 
+background-image: url(https://www.empowerteen.org/wp-content/uploads/2017/12/fly-kid.jpg);
+background-size: Cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+ }
+
+ #header {
+ 	color: yellow;
+ 	font-family: 'Caveat', cursive;
+ 	font-weight: bold;
+ 	border: 5px solid orange;
+ 	box-sizing: content-box;
+ 	width: 50%;
+ 	text-align: center;
+ 	line-height: 25px;
+ 	margin: 0 auto;
+ 	margin-bottom: 50px;
+ 	margin-top: 50px;
+ 	background-color: rgba(0, 0, 0, 0.5);
+}
+
+ #paragraph {
+ 	font-family: 'Caveat', cursive;
+ 	font-weight: italic;
+ 	font-size: large;
+
+ }
+
+ .all-landing {
+ 	text-align: center;
+ }
+
+.btn {
+	font-weight: lighter;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn.btn-danger {
+	background-color: yellow;
+	color: Orangered;
+	margin-bottom: 50px;
+	margin-top: 20px;
+	transition: all 0.3s ease-in-out;
+	
+}
+
+.btn.btn-danger:hover {
+	background-color: orangered;
+	color: yellow;
+	transform: scale(1.1);
+
+}
+
+#product-title {
+ 	color: yellow;
+ 	font-family: 'Caveat', cursive;
+ 	font-weight: bold;
+ 	border: 5px solid orange;
+ 	box-sizing: content-box;
+ 	width: 50%;
+ 	text-align: Center;
+ 	line-height: 25px;
+ 	margin: 100px 0px 50px 0px;
+ 	/*margin-bottom: 50px;*/
+ 	padding: 10px 0px 10px 0px;
+ 	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#header-2 {
+	color: yellow;
+ 	font-family: 'Caveat', cursive;
+ 	font-weight: bold;
+ 	border: 5px solid orange;
+ 	box-sizing: content-box;
+ 	width: 50%;
+ 	text-align: center;
+ 	line-height: 25px;
+ 	margin: 50px 0px 50px 50px;
+ 	/*align-self: left;*/
+ 	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#footer {
+	border: 5px solid orange;
+	box-sizing: content-box;
+	margin: 50px 50px 50px 50px;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	
+}
+
+.footer-image {
+	text-align: left;
+	padding-left: 50px;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	margin-right: 0px; 
+}
+
+.footer-text {
+	color: yellow;
+	font-family: 'Caveat', cursive;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	margin: 0px auto;
+}
